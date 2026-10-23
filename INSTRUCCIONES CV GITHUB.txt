@@ -12,5 +12,34 @@ git add .
 git commit -m "Actualización 25.10.2025"
 
 
+REPOSITORIO GITHUB
+https://github.com/dminchez/cv_dminchez.git
+
+==================================================
+PANEL DE ADMINISTRACIÓN WEB DEL CV:
+==================================================
+1. Iniciar Apache en XAMPP.
+2. Abrir en tu navegador:
+   http://localhost/cv_dminchez/admin.php
+   (O simplemente abrir http://localhost/cv_dminchez/ y presionar el botón azul "Administrar CV" en la esquina inferior derecha)
+3. Modificar los datos, agregar empleos, diplomas o certificados.
+4. Presionar "Guardar Cambios" (o Ctrl + S).
+   -> Se actualiza data/cv_data.json
+   -> Se regenera automáticamente index.html
+   -> Se crea un respaldo automático en data/backups/
+5. Publicar a GitHub:
+   Puedes usar el botón "Publicar a GitHub" en el panel, o desde la terminal:
+   git add .
+   git commit -m "Actualización del CV"
+   git push
+
+==================================================
+COMANDOS GIT:
+==================================================
+git config user.name "dminchez"
+git config user.email "danyminchez@hotmail.com"
+git add .
+git commit -m "Actualización del CV"
+git push
 
 
