@@ -1,0 +1,734 @@
+{
+    "personal_info": {
+        "name": "Dany Josué Mínchez Monzón",
+        "photo": "assets\/images\/FOTO.jpg",
+        "titles": [
+            "Mtr. Business Intelligence and Data Analytics",
+            "Ingeniero en Ciencias y Sistemas"
+        ],
+        "emails": "danyminchez@hotmail.com y danyminchez@yahoo.com",
+        "phone": "Celular: 57184268",
+        "github_url": "https:\/\/dminchez.github.io\/cv_dminchez",
+        "github_label": "Link CV: https:\/\/dminchez.github.io\/cv_dminchez"
+    },
+    "profile": "Tengo una maestria en Business Intelligence and Data Analytics de Universidad Internaciones (Entrega de titulo Febrero 2026), tambien soy Ingeniero en Ciencias y Sistemas, de la Universidad de San Carlos de Guatemala, estudie mi diversificado en el departamento de San Marcos obteniendo el título de Bachiller en Computación con Orientación Científica, los Básicos los estudie en la Escuela de Formación Agrícola (E.F.A), en el departamento de Sololá, la primaria la estudie en la Escuela oficial Urbana Mixta de Panajachel, Sololá. De antemano agradecido con la empresa que tuvo a bien tomarse el tiempo para revisar mi Hoja de Vida, lo que deseo es aportar mis conocimientos, para la mejora continua de la empresa que confió en mi perfil profesional, según su visión y misión. Y aplicar mi capacidad de liderazgo y mis cualidades que son la responsabilidad, honestidad e integridad. Además soy una persona organizada, sociable y amigable que se adapta a cualquier equipo de trabajo. Tengo más de 20 años de experiencia en diferentes manejadores de Bases de Datos, iniciando en el 2001 en la empresa Pio Lindo (Grupo PAF) en la cual estuve aproximadamente 6 años, luego por mejora salarial me cambie a la Corporación Grandes Venados, S.A. donde estuve como Jefe de Sistemas, también aproximadamente 6 años, luego trabaje en el Registro Nacional de las Personas (RENAP), donde estuve aproximadamente 4 años y medio, luego durante 8 meses labore en la Procuraduría General de la Nación (PGN) , en Justice Education Society (JES), durante aproximadamente 1 año y medio, en Seguros GYT, durante 2 años y medio actualmente me encuentro laborando en la Comisión Nacional Contra la Corrupción - CNC -.",
+    "experience": [
+        {
+            "position": "Asesor de tecnologías de la Información",
+            "company": "Comisión Nacional Contra la Corrupción -CNC-",
+            "period": "Septiembre 2024 a la fecha",
+            "description": "Investigar nuevas tecnologías y tendencias en el campo de la tecnología de la información, identificando oportunidades de mejora ,asesorar en la selección y adquisición de equipos y software, evaluado opciones y recomendando soluciones adecuadas , facilitar sesiones de capacitación sobre el uso de sistemas y herramientas tecnologícas para el personal de la comisión , revisar los procedimientos de seguridad de la información, identificando posibles vulnerabilidades y proponiendo medidas de mitigación , evaluar el rendimiento de los sistemas informáticos, identificando áreas de mejora y proponiendo soluciones , colaborar con las dependencias de la comisión para asegurar la integración de la tecnología de información en los procesos y proyectos , elaborar las propuestas de soporte técnico para la óptima selección, administración y actualización de la infraestructura tecnológica de la Comisión , evaluar los sistemas de confidencialidad, integridad y disponibilidad de la información de los sistemas dentro de la Comisión , realizar otras funciones que le sean asignadas por el Director de Tecnología de la información.",
+            "technologies": []
+        },
+        {
+            "position": "Administrador de Base de Datos - DBA",
+            "company": "Seguros G&T",
+            "period": "Febrero 2022 - Septiembre 2024",
+            "description": "Administración de Bases de datos en Mysql, ORACLE, SQLServer, Postgress. Gestión de Backups, Gestión de Bases de Datos en AWS, Google Cloud, Oracle Cloud, Tunning de Consultas de base de datos, Administración ASM ORACLE, Administración de Sistemas Operativos Linux y Windows, Seguimiento Auditorias de base de datos, Seguimiento de Actividades segun metodología SCRUM",
+            "technologies": []
+        },
+        {
+            "position": "Administrador de Base de Datos - DBA",
+            "company": "Justice Education Society of Britich Columbia - JES",
+            "period": "Febrero 2020 – Julio 2021",
+            "description": "Creación de modelos entidad relación para la nueva estructura de la base de datos de la Institución del Ministerio Publico, Migración de información hacia la nueva estructura de la base de datos, documentación de nomenclatura de base de datos a utilizar, generación de documentación sobre Alta Disponibilidad en SQLSERVER, aplicación cambios en la base de datos, seguimiento a las diferentes tareas del equipo conformado de base de datos, seguimiento de actividades según Metodología SCRUM, monitoreo de las diferentes instancias de base de datos y Optimización de Consultas en la base de datos, configuración de auditoria de base de datos sqlserver.",
+            "technologies": []
+        },
+        {
+            "position": "Profesional Analista Programador",
+            "company": "Procuraduría General de la Nación - PGN",
+            "period": "Julio 2019 – Enero 2020",
+            "description": "Desarrollo de software requerido por la diferentes áreas de la institución, Obtención de requerimientos, Análisis e Implementación se software, generación de casos de uso, diagramación y mockups.",
+            "technologies": []
+        },
+        {
+            "position": "Jefe de Base de Datos \/ DBA",
+            "company": "Registro Nacional de las Personas - RENAP",
+            "period": "Septiembre 2014 – Mayo 2019",
+            "description": "Planificar, coordinar y supervisar equipo de base de datos, administración de las diferentes bases de datos, seguimiento backups y restauración de bases de datos, creación de usuarios de base de datos, monitoreo de base de datos, afinamiento de la base de datos, seguimiento a diferentes informes como productividad, políticas del departamento, planes de contingencia, entre otros, Creación y actualización de objetos de la base de datos, asignación ASM Oracle, seguimiento a cambios en producción, seguimiento a las diferentes alertas de las bases de datos, seguimiento replicación con sitio alterno de base de datos, monitoreo de rendimiento y disponibilidad de la base de datos, Creación, actualización de los entidad relación de las bases de datos, configuración de auditoria de base de datos Oracle",
+            "technologies": []
+        },
+        {
+            "position": "Jefe de Computo",
+            "company": "Corporación Grandes Venados, S.A.",
+            "period": "Abril 2008 – Julio 2014",
+            "description": "Planificación, organización y seguimiento al equipo de Informática, Administración de bases de datos en SQLServer, Instalación de Sistemas Operativos Windows y de servidores, Cambios en configuración de Planta Telefónica, Administración de Redes, Configuración de Routers, Cableado de Redes, Configuración redes inalambricas, Diseño de etiquetas de con codigos de barra, Compra de equipos informáticos, Soporte a usuarios con respecto al ERP Visual Enterprise y Global Financial, Coodinación de versiones y nuevas implementaciones de sistemas, Gestión de backups de bases de datos, correos electronicos y documentos de usuarios, Camaras de seguridad y Programación en Visual .NET, Creación y actualización de sistema de punto de venta, marcaje y planillas.",
+            "technologies": []
+        },
+        {
+            "position": "Administrador de Base de Datos - DBA \/ Analista Senior de Sistemas",
+            "company": "Pio Lindo - Grupo PAF",
+            "period": "Enero 2002 – Abril 2008",
+            "description": "Seguimiento de cambios en el sistema de Nominas y planillas, creación de sistemas a la medida solicitados, Generación de reportes Gerenciales, Asignado como usuario Experto, seguimiento cambios en sistema ERP",
+            "technologies": [
+                "Business Intelligence",
+                "Git y Github",
+                "SCRUM"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Maestria en Business Intelligence and Data Analytics",
+            "institution": "Universidad Internaciones",
+            "period": "2024- 2025"
+        },
+        {
+            "degree": "Ingeniero en Ciencias y Sistemas",
+            "institution": "Universidad de San Carlos de Guatemala",
+            "period": "1995- 2001"
+        },
+        {
+            "degree": "Bachiller en Computación con Orientación Científica",
+            "institution": "Escuela Técnica en Computación - E.T.C. San Marcos",
+            "period": "1993 - 1994"
+        },
+        {
+            "degree": "Diploma de Básicos y Auxiliar Agropecuario",
+            "institution": "Escuela de Formación Agricola - E.F.A. Sololá",
+            "period": "1990- 1992"
+        },
+        {
+            "degree": "Diploma de Primaria",
+            "institution": "Escuela Urbana Mixta de Panajachel, Sololá",
+            "period": "1984- 1989"
+        }
+    ],
+    "references": [
+        {
+            "name": "Ing. Jorge Orózco",
+            "company": "",
+            "phone": "Tel: 56998117"
+        },
+        {
+            "name": "Ing. Pablo de León",
+            "company": "",
+            "phone": "Tel: 52276468"
+        }
+    ],
+    "skills": {
+        "categories": [
+            {
+                "category": "Databases",
+                "items": [
+                    {
+                        "name": "SQLServer",
+                        "level": 95
+                    },
+                    {
+                        "name": "Oracle",
+                        "level": 95
+                    },
+                    {
+                        "name": "MySql",
+                        "level": 95
+                    },
+                    {
+                        "name": "Postgress",
+                        "level": 95
+                    },
+                    {
+                        "name": "MariaDB",
+                        "level": 95
+                    },
+                    {
+                        "name": "Informix",
+                        "level": 95
+                    }
+                ]
+            },
+            {
+                "category": "Lenguajes",
+                "items": [
+                    {
+                        "name": "PL\/SQL, DDL, DML",
+                        "level": 95
+                    }
+                ]
+            },
+            {
+                "category": "Backend",
+                "items": [
+                    {
+                        "name": "Python",
+                        "level": 50
+                    },
+                    {
+                        "name": "Java",
+                        "level": 50
+                    },
+                    {
+                        "name": "PHP",
+                        "level": 50
+                    }
+                ]
+            },
+            {
+                "category": "Frontend",
+                "items": [
+                    {
+                        "name": "HTML, CSS, JS, BOOTSTRAP, Visual Studio C# y ASPX",
+                        "level": 70
+                    }
+                ]
+            },
+            {
+                "category": "Herramientas",
+                "items": [
+                    {
+                        "name": "TOAD for SQLServer",
+                        "level": 95
+                    },
+                    {
+                        "name": "TOAD for Oracle",
+                        "level": 95
+                    },
+                    {
+                        "name": "SQL development",
+                        "level": 95
+                    },
+                    {
+                        "name": "Visual studio 2019",
+                        "level": 80
+                    },
+                    {
+                        "name": "Herramientas Microsoft Windows (Word, Excel, PowerPoint, Access Visio y Project.)",
+                        "level": 95
+                    },
+                    {
+                        "name": "ER\/studio Data Arquitect 18.3.0",
+                        "level": 95
+                    }
+                ]
+            },
+            {
+                "category": "Sistemas Operativos",
+                "items": [
+                    {
+                        "name": "Windows XX y Server",
+                        "level": 90
+                    },
+                    {
+                        "name": "AIX",
+                        "level": 75
+                    },
+                    {
+                        "name": "Linux, Ubuntu y Oracle Linux",
+                        "level": 75
+                    }
+                ]
+            },
+            {
+                "category": "Business Intelligence",
+                "items": [
+                    {
+                        "name": "Oracle BI",
+                        "level": 75
+                    },
+                    {
+                        "name": "Power BI",
+                        "level": 75
+                    },
+                    {
+                        "name": "Excel Avanzado",
+                        "level": 90
+                    }
+                ]
+            },
+            {
+                "category": "Plataformas en la Nube",
+                "items": [
+                    {
+                        "name": "Amazon Web Service -AWS-",
+                        "level": 85
+                    },
+                    {
+                        "name": "Cloud Computing Service -Google Cloud-",
+                        "level": 85
+                    },
+                    {
+                        "name": "Microsoft Azure Portal",
+                        "level": 90
+                    },
+                    {
+                        "name": "Oracle Cloud",
+                        "level": 90
+                    }
+                ]
+            }
+        ],
+        "others": [
+            "Crystal Report",
+            "SCRUM",
+            "Seguridad Informática",
+            "GS1 - Estandares de Código de Barras",
+            "Telefónia IP",
+            "Alta Disponibilidad en Bases de Datos",
+            "Auditoría de Sistemas",
+            "Reingenieria",
+            "Normas ISO",
+            "Backup y Restore de bases de datos",
+            "Microsoft Integration Services",
+            "SQL Tunning",
+            "Golden Gate",
+            "Web Service",
+            "Automatización de procesos - Mockups",
+            "Datawarehouse",
+            "ERP"
+        ]
+    },
+    "contact": {
+        "phone": "57184268 y 24351254",
+        "phone_note": "WhastApp",
+        "address": "3ra. Avenida 28-08, zona 10 de Mixco, San Jose la Comunidad Condominio Villas Palermo"
+    },
+    "languages": [
+        {
+            "language": "Español",
+            "level": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "level": "Intermedio"
+        }
+    ],
+    "interests": [
+        "Bases de Datos",
+        "Programación",
+        "Leer",
+        "Viajar",
+        "Enseñar"
+    ],
+    "certificates": [
+        {
+            "title": "Continuing Education Certificate in Digital Project Management",
+            "detail": "MIU City University Miami 2025",
+            "description": "",
+            "file": "media\/certi\/Certificado MIU-City University Miami.pdf"
+        },
+        {
+            "title": "Curso de Introducción a Power BI para el Sector Público",
+            "detail": "Red Ciudadana 2025",
+            "description": "",
+            "file": "media\/certi\/Certificado Introduccion a power BI-Red_Ciudadana.png"
+        },
+        {
+            "title": "Curso Protección de Datos Personales",
+            "detail": "Red Ciudadana 2025",
+            "description": "",
+            "file": "media\/certi\/Certificado_Proteccion_datos_personales_Red_Ciudadana.png"
+        },
+        {
+            "title": "Conoce cómo crear reportes poderosos usando Analytics de Power BI",
+            "detail": "NETEC 2024",
+            "description": "",
+            "file": "media\/certi\/Analytics de Power BI.pdf"
+        },
+        {
+            "title": "Máster en SQL Server: Desde Cero a Nivel Profesional",
+            "detail": "Udemy 2022",
+            "description": "",
+            "file": "media\/certi\/Master_en_SQL_Server.pdf"
+        },
+        {
+            "title": "Galera Cluster and MariaDB MySQL Replication",
+            "detail": "Udemy 2022",
+            "description": "",
+            "file": "media\/certi\/Galera_Cluster.pdf"
+        },
+        {
+            "title": "Curso MySQL de cero hasta experto Ver 5.7 y 8 Linux Act 2022",
+            "detail": "Udemy 2022",
+            "description": "",
+            "file": "media\/certi\/Curso_MySQL_de_cero2022.pdf"
+        },
+        {
+            "title": "Aprende Linux en 5 Días",
+            "detail": "Udemy 2022",
+            "description": "",
+            "file": "media\/certi\/Aprende_Linux_en_ 5 dias.pdf"
+        },
+        {
+            "title": "SCRUMstudy, Scrum Fundamentals Certified",
+            "detail": "SCRUMstudy 2019",
+            "description": "",
+            "file": "media\/certi\/course-certificates-SCRUMstudy_Dany.jpg"
+        },
+        {
+            "title": "Certificate  Custom DPP Administrator Training.",
+            "detail": "Entrust Datacard. 2017",
+            "description": "",
+            "file": "media\/certi\/Certificate  Custom DPP Administrator Training.jpg"
+        },
+        {
+            "title": "Certificate  Custom DPP Operator Training.",
+            "detail": "Entrust Datacard. 2017",
+            "description": "",
+            "file": "media\/certi\/Certificate  Custom DPP Operator Training.jpg"
+        },
+        {
+            "title": "Certificado Power System for AIX III Advanced Administration and problem Determination.",
+            "detail": "GBM An IBM alliance company. 2014",
+            "description": "",
+            "file": "media\/certi\/Certificado Power System for AIX III Advanced Administration and problem Determination.jpg"
+        },
+        {
+            "title": "Certificado Power System for AIX II Implementation and administration.",
+            "detail": "GBM An IBM alliance company. 2014",
+            "description": "",
+            "file": "media\/certi\/Certificado Power System for AIX II Implementation and administration.jpg"
+        },
+        {
+            "title": "Certificado “Yo me Comprometo con Valores de Grupo PAF”.",
+            "detail": "Grupo PAF. 2006",
+            "description": "",
+            "file": "media\/certi\/Certificado Yo me Comprometo con Valores de Grupo PAF.jpg"
+        },
+        {
+            "title": "Certificado “Seminario Implementación de las mejores prácticas de desarrollo de software”.",
+            "detail": "COESYS \/ BLANCO SILVA CONSULTORIA INFORMATICA. 2006",
+            "description": "",
+            "file": "media\/certi\/Certificado Implementación de las mejores prácticas de desarrollo de software.jpg"
+        }
+    ],
+    "diplomados": [
+        {
+            "title": "Diplomado en Soft Skills y Habilidades Directivas",
+            "detail": "UNIR 2024",
+            "description": "",
+            "file": "media\/certi\/Diplomado en Soft Skills y Habilidades Directivas.pdf"
+        }
+    ],
+    "diplomas": [
+        {
+            "title": "Conoce cómo crear reportes poderosos usando Analytics de Power BI",
+            "detail": "NETEC 2024",
+            "description": "",
+            "file": "media\/certi\/Analytics de Power BI.pdf"
+        },
+        {
+            "title": "Diploma II Seminario online de Informática Forense y seguridad Informática.",
+            "detail": "AMPROFOR\/GRUPO TEMIS INVESTIGACIONES. 2021",
+            "description": "",
+            "file": "media\/certi\/Diploma II Seminario online de Informática Forense y seguridad Informática.jpg"
+        },
+        {
+            "title": "Diploma Reten ISR.",
+            "detail": "CENSAT. 2007",
+            "description": "",
+            "file": "media\/certi\/Diploma Reten ISR.jpg"
+        },
+        {
+            "title": "Diploma TEAM BUILDING SENDERO DE CUERDAS.",
+            "detail": "Camara de Comercio de Guatemala. 2002",
+            "description": "",
+            "file": "media\/certi\/Diploma TEAM BUILDING SENDERO DE CUERDAS.jpg"
+        },
+        {
+            "title": "Diploma Curso de Computación Word Pro y Freelance.",
+            "detail": "Clase - Sistemas Educativos por Computadora, S.A. 2002",
+            "description": "",
+            "file": "media\/certi\/Diploma Curso de Computación Word Pro y Freelance.jpg"
+        },
+        {
+            "title": "Diploma Curso Freeway.",
+            "detail": "Grupo PAF. 2002",
+            "description": "",
+            "file": "media\/certi\/Diploma Curso Freeway.jpg"
+        },
+        {
+            "title": "Charla Higiene y Seguridad Industrial.",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Charla Higiene y Seguridad Industrial.jpg"
+        },
+        {
+            "title": "Diploma Seminario Emprendimiento y Negocios.",
+            "detail": "CEDUCA - Colegio de Ingenieros. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Seminario Emprendimiento y Negocios.jpg"
+        },
+        {
+            "title": "Diploma Seminario Como realizar una re-ingeniería a mi empresa para mejorar la operación y los resultados financieros.",
+            "detail": "CEDUCA - Colegio de Ingenieros. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Seminario Como realizar una re-ingeniería a mi empresa para mejorar la operación y los resultados financieros.jpg"
+        },
+        {
+            "title": "Diploma “Normas ISO 27001:2013, Fase I”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Normas ISO 27001-2013 Fase I.jpg"
+        },
+        {
+            "title": "Diploma “Normas ISO 27001:2013, Fase II”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Normas ISO 27001-2013 Fase II.jpg"
+        },
+        {
+            "title": "Diploma “Normas ISO 27001:2013, Fase III”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Normas ISO 27001-2013 Fase III.jpg"
+        },
+        {
+            "title": "Diploma “Normas ISO 27001:2013, Fase IV”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Normas ISO 27001-2013 Fase IV.jpg"
+        },
+        {
+            "title": "Diploma “Sensibilización de la Norma ISO 9001:2015”.",
+            "detail": "ECARENAP. 2017",
+            "description": "",
+            "file": "media\/certi\/Diploma Sensibilización de la Norma ISO 9001-2015.jpg"
+        },
+        {
+            "title": "Diploma “Gestión Pública”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Gestión Pública.jpg"
+        },
+        {
+            "title": "Diploma “Cultura Organizacional”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Cultura Organizacional.jpg"
+        },
+        {
+            "title": "Diploma “Destrezas para la Resolución de conflictos”.",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Diploma Destrezas para la Resolución de conflictos.jpg"
+        },
+        {
+            "title": "Conferencia \"Estacion de Captura (Morpho Kit)\".",
+            "detail": "ECARENAP. 2016",
+            "description": "",
+            "file": "media\/certi\/Conferencia Estacion de Captura.jpg"
+        },
+        {
+            "title": "Diploma \"Importancia sobre los Nombramientos Efectivos y su vinculación con el Reglamento Interior de Trabajo\".",
+            "detail": "ECARENAP. 2017",
+            "description": "",
+            "file": "media\/certi\/Importancia sobre los nombramientos.jpg"
+        },
+        {
+            "title": "Charla \"Ley de Contrataciones del Estado, Competencias de Juntas de Cotización y\/o Licitación\".",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Ley de contrataciones del estado.jpg"
+        },
+        {
+            "title": "Charla \"Ley de Probidad\".",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Ley de Probidad.jpg"
+        },
+        {
+            "title": "Charla \"Ley de Probidad\".",
+            "detail": "ECARENAP. 2019",
+            "description": "",
+            "file": "media\/certi\/Ley de Probidad 2019.jpg"
+        },
+        {
+            "title": "Conferencia \"Gestión por Resultados (Formulación del Presupuesto por Resultados)\".",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Gestion por Resultados.jpg"
+        },
+        {
+            "title": "Charla \"Plan Integral dirigido a eliminar el máximo posible el ausentismo a los cursos presenciales, el abandono o perdida de los cursos virtuales y su vinculación con el Reglamento Interno de Trabajo\".",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Plan integral dirigido a eliminar.jpg"
+        },
+        {
+            "title": "Conferencia \"Norma ISO 9001:2015 (Cuadro de Mando Integrado - CIM -)\".",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Norma ISO 9001-2015.jpg"
+        },
+        {
+            "title": "Conferencia \"Gestión por Resultados (Formulación del Presupuesto por Resultados)\".",
+            "detail": "ECARENAP. 2019",
+            "description": "",
+            "file": "media\/certi\/Gestion por Resultados 2019.jpg"
+        },
+        {
+            "title": "Conferencia \"Ruta de Mejoramiento\".",
+            "detail": "ECARENAP. 2017",
+            "description": "",
+            "file": "media\/certi\/Ruta de mejoramiento.jpg"
+        },
+        {
+            "title": "Capacitación \"Socialización del Reglamento Interior de Trabajo\".",
+            "detail": "ECARENAP. 2015",
+            "description": "",
+            "file": "media\/certi\/Sociabilizacion del reglamento.jpg"
+        },
+        {
+            "title": "Charla \"Normativa Interna del RENAP y los Manuales de Procediemientos Aplicables a las funciones que Desempeña cada una de las Dependencias del RENAP\".",
+            "detail": "ECARENAP. 2017",
+            "description": "",
+            "file": "media\/certi\/Normativa interna del renap.jpg"
+        },
+        {
+            "title": "Charla \"Análisis Jurídico del Decreto número 57-2008 del Congreso de la República de Guatemala, Ley de Acceso a la Información Pública\".",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Análisis Juridico del Decreto 57-2008.jpg"
+        },
+        {
+            "title": "Diploma \"Programa de Inducción General\".",
+            "detail": "RENAP. 2017",
+            "description": "",
+            "file": "media\/certi\/Programa induccion general.jpg"
+        },
+        {
+            "title": "Diploma \"Reformas Tributarias\".",
+            "detail": "CENSAT. 2012",
+            "description": "",
+            "file": "media\/certi\/Reformas tributarias.jpg"
+        },
+        {
+            "title": "Diploma \"Conferencias Realizadas del 25 a 28 de Septiembre 2001\".",
+            "detail": "COESYS. 2001",
+            "description": "",
+            "file": "media\/certi\/Conferencias realizadas.jpg"
+        },
+        {
+            "title": "Diploma \"Programación Pascal\".",
+            "detail": "USAC -Facultad Ingeniería. 1996",
+            "description": "",
+            "file": "media\/certi\/Curso Pascal.jpg"
+        },
+        {
+            "title": "Diploma \"Marhcad\".",
+            "detail": "USAC -Facultad Ingeniería. 1996",
+            "description": "",
+            "file": "media\/certi\/Curso Mathcad.jpg"
+        }
+    ],
+    "workshops": [
+        {
+            "title": "Taller Virtual de Inteligencia Artificial y Datos Abiertos.",
+            "detail": "GENA Latinoamérica, 2025",
+            "description": "",
+            "file": "media\/certi\/Taller Virtual IA y datos abiertos-CPGAE.png"
+        },
+        {
+            "title": "Taller de diseño de herramientas de comunicación de procesos anticorrupción y gestión de cambio.",
+            "detail": "CNC, 2024",
+            "description": "",
+            "file": "media\/certi\/Taller Procesos anticorrupcion-CNC.pdf"
+        },
+        {
+            "title": "Taller Liderazgo Estratégico.",
+            "detail": "ECARENAP. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller Liderazgo Estratégico.jpg"
+        },
+        {
+            "title": "Taller de Oracle Audit Vault.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Oracle Audit Vault.jpg"
+        },
+        {
+            "title": "Taller de Configuración y mantenimiento de auditoria de Oracle.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Configuración y mantenimiento de auditoria de Oracle.jpg"
+        },
+        {
+            "title": "Taller de Performance & SQL Tuning 12c.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Performance & SQL Tuning 12c.jpg"
+        },
+        {
+            "title": "Taller de Backup y recuperación de Oracle Database 12c.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Backup y recuperación de Oracle Database 12c.jpg"
+        },
+        {
+            "title": "Taller de Administración de Oracle Linux.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Administración de Oracle Linux.jpg"
+        },
+        {
+            "title": "Taller de Oracle PL\/SQL Intermedio.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Oracle PLSQL Intermedio.jpg"
+        },
+        {
+            "title": "Taller de Oracle Golden Gate 12c.",
+            "detail": "Datum, S.A. 2018",
+            "description": "",
+            "file": "media\/certi\/Taller de Oracle Golden Gate 12c.jpg"
+        },
+        {
+            "title": "Taller de Administración de Base de datos Oracle 10g, RAC y Data Guard.",
+            "detail": "Datum, S.A. 2016",
+            "description": "",
+            "file": "media\/certi\/Taller de Administración de Base de datos Oracle 10g, RAC y Data Guard.jpg"
+        },
+        {
+            "title": "Taller de Linux Administración.",
+            "detail": "FirmWare. 1999",
+            "description": "",
+            "file": "media\/certi\/Taller de Linux.jpg"
+        },
+        {
+            "title": "Taller de Linux Introducción.",
+            "detail": "FirmWare. 1999",
+            "description": "",
+            "file": "media\/certi\/Taller de Linux2.jpg"
+        },
+        {
+            "title": "Taller de Oracle Introducción.",
+            "detail": "FirmWare. 1999",
+            "description": "",
+            "file": "media\/certi\/Taller Oracle.jpg"
+        },
+        {
+            "title": "Taller de Mantenimiento PCS.",
+            "detail": "FirmWare. 1998",
+            "description": "",
+            "file": "media\/certi\/Taller mantenimiento PCS.jpg"
+        },
+        {
+            "title": "Taller de Creación de Paginas en Internet.",
+            "detail": "FirmWare. 1998",
+            "description": "",
+            "file": "media\/certi\/Taller creacion paginas.jpg"
+        }
+    ],
+    "recognitions": [
+        {
+            "title": "Presidente Seminario",
+            "detail": "",
+            "description": "Diversificado E.T.C.",
+            "file": ""
+        }
+    ],
+    "university_titles": [
+        {
+            "title": "Titulo parte frente.",
+            "detail": "USAC. 2007",
+            "description": "",
+            "file": "media\/certi\/Titulo Frente.jpg"
+        },
+        {
+            "title": "Titulo parte atras.",
+            "detail": "USAC. 2007",
+            "description": "",
+            "file": "media\/certi\/Titulo Atras.jpg"
+        }
+    ]
+}
