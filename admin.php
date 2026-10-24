@@ -259,10 +259,10 @@ if (file_exists($dataPath)) {
     <title>Panel de Administración - CV Dany Josué Mínchez</title>
     <link rel="shortcut icon" href="media/bg/FOTO.webp">
     
-    <!-- Google Fonts Inter & Outfit -->
+    <!-- Google Fonts Poppins -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
     
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
@@ -297,10 +297,11 @@ if (file_exists($dataPath)) {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
+            font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
         }
 
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
             background-color: var(--bg-page);
             color: var(--text-main);
             display: flex;
@@ -309,7 +310,7 @@ if (file_exists($dataPath)) {
         }
 
         h1, h2, h3, h4, .brand-title {
-            font-family: 'Outfit', sans-serif;
+            font-family: 'Poppins', sans-serif;
         }
 
         /* SIDEBAR */

@@ -11,11 +11,201 @@
     <link rel="shortcut icon" href="media/bg/FOTO.webp">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+    <!-- Google Font: Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
 
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+
+    <style>
+        /* Tipografía Poppins en todo el documento */
+        body, h1, h2, h3, h4, h5, h6, .name, .title, p, span, a, li, div, small, strong, em, b, i, .badge, .btn {
+            font-family: 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+        }
+
+        /* Encabezado: Centrado, elegante y moderno */
+        .resume-header {
+            background: linear-gradient(135deg, #1e4f8a 0%, #2b6cb0 50%, #3182ce 100%) !important;
+            padding: 0 !important;
+            border-radius: 6px 6px 0 0;
+            overflow: hidden;
+            box-shadow: inset 0 -1px 0 rgba(255,255,255,0.1);
+        }
+
+        .resume-header .media {
+            align-items: stretch !important;
+            margin: 0 !important;
+        }
+
+        .header-photo-wrapper {
+            width: 220px;
+            min-width: 220px;
+            max-width: 220px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #173860;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .header-photo-wrapper img.picture {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: cover !important;
+            object-position: center 20% !important;
+            display: block;
+            margin: 0 !important;
+            transition: transform 0.3s ease;
+        }
+
+        .header-photo-wrapper:hover img.picture {
+            transform: scale(1.03);
+        }
+
+        .header-content-wrapper {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 28px 24px;
+            width: 100%;
+        }
+
+        .header-content-wrapper h1.name {
+            font-size: 32px !important;
+            font-weight: 700 !important;
+            letter-spacing: 0.8px !important;
+            margin: 0 0 8px 0 !important;
+            color: #ffffff !important;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.18);
+            line-height: 1.25 !important;
+        }
+
+        .header-titles {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            margin-bottom: 12px;
+        }
+
+        .header-titles .title-line {
+            font-size: 16.5px !important;
+            font-weight: 500 !important;
+            color: rgba(255, 255, 255, 0.95) !important;
+            letter-spacing: 0.2px;
+            line-height: 1.35;
+        }
+
+        .header-contact-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 8px 22px;
+            margin: 0 0 14px 0 !important;
+            padding: 0 !important;
+            list-style: none !important;
+            color: rgba(255, 255, 255, 0.92);
+            font-size: 13.5px;
+            font-weight: 400;
+        }
+
+        .header-contact-list li {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin: 0 !important;
+        }
+
+        .header-contact-list i {
+            color: #93c5fd;
+            font-size: 15px;
+        }
+
+        .github-pill-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.16);
+            border: 1px solid rgba(255, 255, 255, 0.38);
+            color: #ffffff !important;
+            padding: 6px 18px;
+            border-radius: 30px;
+            font-size: 13px;
+            font-weight: 500;
+            text-decoration: none !important;
+            transition: all 0.25s ease;
+            backdrop-filter: blur(6px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+        }
+
+        .github-pill-link:hover {
+            background: rgba(255, 255, 255, 0.28);
+            border-color: rgba(255, 255, 255, 0.65);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 14px rgba(0,0,0,0.2);
+            color: #ffffff !important;
+        }
+
+        .github-pill-link i {
+            font-size: 15px;
+        }
+
+        /* Mejora en títulos de sección y subtítulos */
+        .resume-section-title {
+            font-weight: 700 !important;
+            letter-spacing: 0.5px !important;
+            color: #2b6cb0 !important;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .resume-position-title {
+            font-weight: 600 !important;
+            font-size: 17px !important;
+            color: #1e293b !important;
+        }
+
+        .resume-company-name {
+            font-weight: 500 !important;
+            color: #475569 !important;
+        }
+
+        .resume-skills-cat {
+            font-weight: 700 !important;
+            letter-spacing: 0.3px;
+        }
+
+        /* Adaptación en pantallas pequeñas */
+        @media (max-width: 767.98px) {
+            .resume-header .media {
+                flex-direction: column !important;
+            }
+            .header-photo-wrapper {
+                width: 150px;
+                min-width: 150px;
+                max-width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                margin: 24px auto 10px auto;
+                border: 4px solid rgba(255,255,255,0.35);
+                box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+            }
+            .header-content-wrapper {
+                padding: 12px 18px 28px 18px;
+            }
+            .header-content-wrapper h1.name {
+                font-size: 24px !important;
+            }
+            .header-titles .title-line {
+                font-size: 15px !important;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -23,32 +213,29 @@
         <div class="main-wrapper">
             <article class="resume-wrapper text-center position-relative">
                 <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
-                    <header class="resume-header pt-4 pt-md-0">
+                    <header class="resume-header">
                         <div class="media flex-column flex-md-row">
-                            <img class="mr-3 img-fluid picture mx-auto" style="width: 20.5%;height: auto;" src="assets/images/FOTO.jpg" alt="Dany Josué Mínchez Monzón">
-                            <div class="media-body pb-5 d-flex flex-column flex-md-row mx-auto mx-lg-0">
-                                <div class="primary-info">
-                                    <h1 class="name mt-0 mb-0 text-white text-uppercase text-center">Dany Josué Mínchez Monzón</h1>
-                                                                            <div class="title mb-0 text-center">Mtr. Business Intelligence and Data Analytics</div>
-                                                                            <div class="title mb-0 text-center">Ingeniero en Ciencias y Sistemas</div>
-                                                                        <ul class="list-unstyled text-center">
-                                                                                    <li><i class="fa fa-envelope" data-fa-transform="grow-3"></i> danyminchez@hotmail.com y danyminchez@yahoo.com</li>
-                                                                                                                            <li><i class="fa fa-telegram" aria-hidden="true"></i> Celular: 57184268</li>
-                                                                            </ul>
-                                </div>
-                                <!--//primary-info-->
-                                <div class="secondary-info ml-md-auto mt-2">
-                                    <ul class="resume-social list-unstyled">
-                                                                                    <li class="mb-3 text-center">
-                                                <a href="https://danyminchez-spec.github.io/cv_dminchez/"><span class="fa-container text-center mr-2"><i class="fa fa-github"></i></span>Link CV: https://danyminchez-spec.github.io/cv_dminchez/</a>
-                                            </li>
-                                                                            </ul>
-                                </div>
-                                <!--//secondary-info-->
+                            <div class="header-photo-wrapper">
+                                <img class="picture img-fluid" src="assets/images/FOTO.jpg" alt="Dany Josué Mínchez Monzón">
                             </div>
-                            <!--//media-body-->
+                            <div class="media-body header-content-wrapper">
+                                <h1 class="name">Dany Josué Mínchez Monzón</h1>
+                                <div class="header-titles">
+                                                                            <div class="title-line">Mtr. Business Intelligence and Data Analytics</div>
+                                                                            <div class="title-line">Ingeniero en Ciencias y Sistemas</div>
+                                                                    </div>
+                                <ul class="header-contact-list">
+                                                                            <li><i class="fa fa-envelope"></i> danyminchez@hotmail.com y danyminchez@yahoo.com</li>
+                                                                                                                <li><i class="fa fa-telegram"></i> Celular: 57184268</li>
+                                                                    </ul>
+                                                                    <div>
+                                        <a href="https://danyminchez-spec.github.io/cv_dminchez/" target="_blank" class="github-pill-link">
+                                            <i class="fa fa-github"></i>
+                                            <span>Link CV: https://danyminchez-spec.github.io/cv_dminchez/</span>
+                                        </a>
+                                    </div>
+                                                            </div>
                         </div>
-                        <!--//media-->
                     </header>
                     <div class="resume-body p-5">
 
